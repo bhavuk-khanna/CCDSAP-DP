@@ -5,7 +5,7 @@ import java.util.Scanner;
 import java.util.StringTokenizer;
 public class FastReader {
 
-	
+		int test;
         BufferedReader br; 
         StringTokenizer st; 
   
