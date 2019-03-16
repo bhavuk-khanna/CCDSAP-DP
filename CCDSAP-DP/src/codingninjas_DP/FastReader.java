@@ -1,3 +1,4 @@
+package codingninjas_DP;
 import java.io.BufferedReader; 
 import java.io.IOException; 
 import java.io.InputStreamReader; 
@@ -5,7 +6,7 @@ import java.util.Scanner;
 import java.util.StringTokenizer;
 public class FastReader {
 
-		
+		int test;
         BufferedReader br; 
         StringTokenizer st; 
   
